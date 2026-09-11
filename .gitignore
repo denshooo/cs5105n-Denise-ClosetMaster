@@ -1,1 +1,15 @@
-.godot/ 
+# Godot 4's local cache/metadata folder
+.godot/
+
+# Leftover from Godot 3 projects;
+.import/
+
+# An older export configuration file format.
+export.cfg
+
+# Stores your export presets (platform settings, export paths, sometimes keystore paths/passwords for Android).
+export_presets.cfg
+
+# Compiled translation files auto-generated from your .csv/.po source files.
+*.translation
+
