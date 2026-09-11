@@ -5,5 +5,5 @@
 [node name="Node2D" type="Node2D" unique_id=198136310]
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=61356749]
-position = Vector2(-433.82465, -165.9691)
+position = Vector2(576, 324)
 texture = ExtResource("1_wtcfe")
