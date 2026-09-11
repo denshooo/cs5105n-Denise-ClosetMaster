@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cbjswf4xijx3x"]
+
+[ext_resource type="Texture2D" uid="uid://cbb0ia8glt8xf" path="res://e38c06340f95c0345d0202978ea10d94-removebg-preview.png" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D" unique_id=198136310]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=61356749]
+position = Vector2(-433.82465, -165.9691)
+texture = ExtResource("1_wtcfe")
